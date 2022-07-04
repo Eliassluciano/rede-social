@@ -38,14 +38,11 @@ iframe#tela {
     position: relative;
     top: 80px;   /* centralização */
     left: 22px;
-    width: 269px;   /* tamanho */
+    width: 267px;   /* tamanho */
     height: 471px;
 }
 
 section#redes-sociais {
-    position: relative;
-    top: 105px;
-    right: 80px;
     text-align: right;
 }
 
